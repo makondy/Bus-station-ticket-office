@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UtilsLib.TicketJsonConverter">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicketsLib.Ticket">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAAAIgEAAAAAAAAAAAABAMAAAAAAAAAAA=</HashCode>
+      <FileName>Tickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicketsLib.StandartTicket">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicketsLib.DiscountTicket">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicketsLib.TicketService">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQEAAAAABABAAAgAAAIJAAABgAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Tickets.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab5.RouteComparisonsSorting">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAAAAAAAAAAAAAAICAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>RouteComparisons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.RouteComparisonsFiltration">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAgAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RouteComparisons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RouteLib.Route">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAMAAAAAAAGAQAIAAgAAEAAgQAApAABIABIAAAAAABg=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RouteLib.RouteService" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAACCAABVAAAgAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab5.Program">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PDFExporterCustom.PDFExporter">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PDFExporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.ListViewItemComparer">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ListViewItemComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab5.fMain" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAkFVAMCRQQAJAAlCRNAIyECIIhBAKkSIQwgBgQgo=</HashCode>
+      <FileName>fMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.fRoute" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAJABAAACgAABEAAQCIBAACAIAAACAEAAAAAQAAkAA=</HashCode>
+      <FileName>fRoute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.fTicket" Collapsed="true">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFQAACWAADEAAAGABEACQgQAAAAAABAAQQAAgAA=</HashCode>
+      <FileName>fTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.fTicketsList" Collapsed="true">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAACAAAAIgAIGACBACAAAAAAAMAAAAQAAQAAA=</HashCode>
+      <FileName>fTicketsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TicketsLib.ITicketService">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABABAAAAAAAIIAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tickets.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RouteLib.IRouteService">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAABVAAAgAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
